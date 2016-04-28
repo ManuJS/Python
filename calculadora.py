@@ -1,8 +1,8 @@
 print ("-----Calculadora Python-----")
 
 
-num1 = int(input("informe um numero: "))
-num2 = int(input ("informe outro numero "))
+num1 = float(input("informe um numero: "))
+num2 = float(input ("informe outro numero "))
 print ("escolha uma operação")
 print ("1 - soma")
 print ("2 - subtração")
