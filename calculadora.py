@@ -1,3 +1,6 @@
+print ("-----Calculadora Python-----")
+
+
 num1 = int(input("informe um numero: "))
 num2 = int(input ("informe outro numero "))
 print ("escolha uma operação")
